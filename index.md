@@ -56,10 +56,11 @@ body, html {
 </style>
 </head>
 <body>
+  
 <center>Future Casio
 <p>Die Revolution der Casio Taschenrechner!</p>
 </center>
-
+<img src="images/schueler-in-friedrichshafen.png" alt="Test">
   
   <!--Obere Reiterbox-->
   
