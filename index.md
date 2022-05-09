@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Meine Testseite</title>
+    <title>Future Casio</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="Mein Testbild">
+    <h1>Der neue Taschenrechner!</h1>
   </body>
 </html>
