@@ -61,7 +61,8 @@ body, html {
   
 
  <div id="Test" <img src="images/schueler-in-friedrichshafen.png" alt="Test">>
-  <center>Future Casio
+  <center>
+    <h1 style="font-size: 4rem; color: #2ecc71">Future Casio</h1>
     <p>Die Revolution der Casio Taschenrechner!</p>
 </center>
 </div>
