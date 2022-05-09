@@ -110,7 +110,7 @@ document.getElementById("defaultOpen").click();
 </div>
   
   <script>
-function openPage(pageName,elmnt,color) {
+function openPage2(pageName,elmnt,color) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
   for (i = 0; i < tabcontent.length; i++) {
