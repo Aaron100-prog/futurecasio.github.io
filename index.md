@@ -114,7 +114,7 @@ document.getElementById("defaultOpen").click();
 <button class="tablink" onclick="openPage2('Umfragen', this, 'red')">Umfragen</button>
 <button class="tablink" onclick="openPage2('Verbesserungsvorschlaege', this, 'green')" >Verbesserungsvorschläge</button>
 <button class="tablink" onclick="openPage2('Rezensionen', this, 'blue')">Rezensionen</button>
-<button class="tablink" onclick="openPage2('Q&A', this, 'orange')">Kundensupport</button>
+<button class="tablink" onclick="openPage2('Q&A', this, 'orange')">Q&A</button>
   
   <div id="Umfragen" class="tabcontent">
   <p>Der Shop von Future casio</p>
