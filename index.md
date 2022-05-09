@@ -45,6 +45,8 @@ body, html {
 </head>
 <body>
 
+  <!--Obere Reiterbox-->
+  
 <button class="tablink" onclick="openPage('Shop', this, 'red')">Shop</button>
 <button class="tablink" onclick="openPage('Huellendesignen', this, 'green')" >Hüllen designen</button>
 <button class="tablink" onclick="openPage('Spenden', this, 'blue')">Spenden</button>
@@ -86,26 +88,29 @@ function openPage(pageName,elmnt,color) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-<button class="tablink" onclick="openPage2('Shop', this, 'red')">Shop</button>
-<button class="tablink" onclick="openPage2('Huellendesignen', this, 'green')" >Hüllen designen</button>
-<button class="tablink" onclick="openPage2('Spenden', this, 'blue')">Spenden</button>
-<button class="tablink" onclick="openPage2('Ueberuns', this, 'orange')">Über uns</button>
   
-  <div id="Shop" class="tabcontent">
+  <!--Untere Reiterbox-->
+  
+<button class="tablink" onclick="openPage2('Umfragen', this, 'red')">Umfragen</button>
+<button class="tablink" onclick="openPage2('Ideeneintragen', this, 'green')" >Ideen eintragen</button>
+<button class="tablink" onclick="openPage2('Rezensionen', this, 'blue')">Rezensionen</button>
+<button class="tablink" onclick="openPage2('Kundensupport', this, 'orange')">Kundensupport</button>
+  
+  <div id="Umfragen" class="tabcontent">
   <p>Der Shop von Future casio</p>
   <p>Kaufen sie jetzt unseren brandneuen Taschenrechner</p>
 </div>
 
-<div id="Huellendesignen" class="tabcontent">
+<div id="Ideeneintragen" class="tabcontent">
   <p>Some news this fine day!</p> 
 </div>
 
-<div id="Spenden" class="tabcontent">
+<div id="Rezensionen" class="tabcontent">
   <h3>Contact</h3>
   <p>Get in touch, or swing by for a cup of coffee.</p>
 </div>
 
-<div id="Ueberuns" class="tabcontent">
+<div id="Kundensupport" class="tabcontent">
   <p>Who we are and what we do.</p>
 </div>
   
