@@ -86,6 +86,10 @@ function openPage(pageName,elmnt,color) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
+<button class="tablink" onclick="openPage('Shop', this, 'red')">Shop</button>
+<button class="tablink" onclick="openPage('Huellendesignen', this, 'green')" >Hüllen designen</button>
+<button class="tablink" onclick="openPage('Spenden', this, 'blue')">Spenden</button>
+<button class="tablink" onclick="openPage('Ueberuns', this, 'orange')">Über uns</button>
    
 </body>
 </html> 
