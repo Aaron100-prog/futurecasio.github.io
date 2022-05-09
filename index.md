@@ -90,6 +90,10 @@ document.getElementById("defaultOpen").click();
 </script>
   
   <!--Untere Reiterbox-->
+#Umfragen {background-color: red;}
+#Ideeneintragen {background-color: green;}
+#Rezensionen {background-color: blue;}
+#Kundensupport {background-color: orange;}
   
 <button class="tablink" onclick="openPage2('Umfragen', this, 'red')">Umfragen</button>
 <button class="tablink" onclick="openPage2('Ideeneintragen', this, 'green')" >Ideen eintragen</button>
