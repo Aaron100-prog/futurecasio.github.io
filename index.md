@@ -1,6 +1,8 @@
 
 <html>
 <head>
+  <meta name="description" content="Die Website von Future Casio">
+  <meta name="title" content="Future Casio">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
@@ -49,7 +51,11 @@ body, html {
 </style>
 </head>
 <body>
+<center>Future Casio
+<p>Die Revolution der Casio Taschenrechner!</p>
+</center>
 
+  
   <!--Obere Reiterbox-->
   
 <button class="tablink" onclick="openPage('Shop', this, 'red')">Shop</button>
