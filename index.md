@@ -1,6 +1,7 @@
 
 <html>
 <head>
+  <meta charset = "utf-8" />
   <meta name="description" content="Die Website von Future Casio">
   <meta name="title" content="Future Casio">
   <title>Future Casio Website</title>
