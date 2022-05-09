@@ -59,10 +59,12 @@ body, html {
 </head>
 <body style="background-color:black;">
   
-<center>Future Casio
-<p>Die Revolution der Casio Taschenrechner!</p>
-<img src="images/schueler-in-friedrichshafen.png" alt="Test">
+
+ <div id="Test" <img src="images/schueler-in-friedrichshafen.png" alt="Test">>
+  <center>Future Casio
+    <p>Die Revolution der Casio Taschenrechner!</p>
 </center>
+</div>
 
   
   <!--Obere Reiterbox-->
