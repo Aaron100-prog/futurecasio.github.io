@@ -54,7 +54,7 @@ body, html {
 #Umfragen {background-color: red;}
 #Verbesserungsvorschlaege {background-color: green;}
 #Rezensionen {background-color: blue;}
-#Kundensupport {background-color: orange;}
+#Q&A {background-color: orange;}
 </style>
 </head>
 <body style="background-color:black;">
@@ -114,7 +114,7 @@ document.getElementById("defaultOpen").click();
 <button class="tablink" onclick="openPage2('Umfragen', this, 'red')">Umfragen</button>
 <button class="tablink" onclick="openPage2('Verbesserungsvorschlaege', this, 'green')" >Verbesserungsvorschläge</button>
 <button class="tablink" onclick="openPage2('Rezensionen', this, 'blue')">Rezensionen</button>
-<button class="tablink" onclick="openPage2('Kundensupport', this, 'orange')">Kundensupport</button>
+<button class="tablink" onclick="openPage2('Q&A', this, 'orange')">Kundensupport</button>
   
   <div id="Umfragen" class="tabcontent">
   <p>Der Shop von Future casio</p>
@@ -130,7 +130,7 @@ document.getElementById("defaultOpen").click();
   <p>Get in touch, or swing by for a cup of coffee.</p>
 </div>
 
-<div id="Kundensupport" class="tabcontent">
+<div id="Q&A" class="tabcontent">
   <p>Who we are and what we do.</p>
 </div>
   
