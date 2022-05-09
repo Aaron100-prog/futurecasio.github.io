@@ -50,7 +50,7 @@ body, html {
 #Ueberuns {background-color: orange;}
   
 #Umfragen {background-color: red;}
-#Ideeneintragen {background-color: green;}
+#Verbesserungsvorschlaege {background-color: green;}
 #Rezensionen {background-color: blue;}
 #Kundensupport {background-color: orange;}
 </style>
