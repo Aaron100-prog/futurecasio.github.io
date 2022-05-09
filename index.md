@@ -55,7 +55,7 @@ body, html {
 #Kundensupport {background-color: orange;}
 </style>
 </head>
-<body>
+<body style="background-color:black;">
   
 <center>Future Casio
 <p>Die Revolution der Casio Taschenrechner!</p>
