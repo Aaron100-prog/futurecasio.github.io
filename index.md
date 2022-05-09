@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,36 +37,34 @@ body, html {
   height: 100%;
 }
 
-#Home {background-color: red;}
-#News {background-color: green;}
-#Contact {background-color: blue;}
-#About {background-color: orange;}
+#Shop {background-color: red;}
+#Huellendesignen {background-color: green;}
+#Spenden {background-color: blue;}
+#Ueberuns {background-color: orange;}
 </style>
 </head>
 <body>
 
-<button class="tablink" onclick="openPage('Home', this, 'red')">Home</button>
-<button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">News</button>
-<button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
-<button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
+<button class="tablink" onclick="openPage('Shop', this, 'red')">Shop</button>
+<button class="tablink" onclick="openPage('Huellendesignen', this, 'green')" >Hüllen designen</button>
+<button class="tablink" onclick="openPage('Spenden', this, 'blue')">Spenden</button>
+<button class="tablink" onclick="openPage('Ueberuns', this, 'orange')">Über uns</button>
 
-<div id="Home" class="tabcontent">
-  <h3>Home</h3>
-  <p>Home is where the heart is..</p>
+<div id="Shop" class="tabcontent">
+  <p>Der Shop von Future casio</p>
+  <p>Kaufen sie jetzt unseren brandneuen Taschenrechner</p>
 </div>
 
-<div id="News" class="tabcontent">
-  <h3>News</h3>
+<div id="Huellendesignen" class="tabcontent">
   <p>Some news this fine day!</p> 
 </div>
 
-<div id="Contact" class="tabcontent">
+<div id="Spenden" class="tabcontent">
   <h3>Contact</h3>
   <p>Get in touch, or swing by for a cup of coffee.</p>
 </div>
 
-<div id="About" class="tabcontent">
-  <h3>About</h3>
+<div id="ueberuns" class="tabcontent">
   <p>Who we are and what we do.</p>
 </div>
 
