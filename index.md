@@ -110,7 +110,7 @@ document.getElementById("defaultOpen").click();
   <!--Untere Reiterbox-->
   
 <button class="tablink" onclick="openPage2('Umfragen', this, 'red')">Umfragen</button>
-<button class="tablink" onclick="openPage2('Ideeneintragen', this, 'green')" >Ideen eintragen</button>
+<button class="tablink" onclick="openPage2('Verbesserungsvorschlaege', this, 'green')" >Verbesserungsvorschläge</button>
 <button class="tablink" onclick="openPage2('Rezensionen', this, 'blue')">Rezensionen</button>
 <button class="tablink" onclick="openPage2('Kundensupport', this, 'orange')">Kundensupport</button>
   
@@ -119,7 +119,7 @@ document.getElementById("defaultOpen").click();
   <p>Kaufen sie jetzt unseren brandneuen Taschenrechner</p>
 </div>
 
-<div id="Ideeneintragen" class="tabcontent">
+<div id="Verbesserungsvorschlaege" class="tabcontent">
   <p>Some news this fine day!</p> 
 </div>
 
