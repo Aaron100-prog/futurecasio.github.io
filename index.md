@@ -86,10 +86,46 @@ function openPage(pageName,elmnt,color) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-<button class="tablink" onclick="openPage('Shop', this, 'red')">Shop</button>
-<button class="tablink" onclick="openPage('Huellendesignen', this, 'green')" >Hüllen designen</button>
-<button class="tablink" onclick="openPage('Spenden', this, 'blue')">Spenden</button>
-<button class="tablink" onclick="openPage('Ueberuns', this, 'orange')">Über uns</button>
-   
+<button class="tablink" onclick="openPage2('Shop', this, 'red')">Shop</button>
+<button class="tablink" onclick="openPage2('Huellendesignen', this, 'green')" >Hüllen designen</button>
+<button class="tablink" onclick="openPage2('Spenden', this, 'blue')">Spenden</button>
+<button class="tablink" onclick="openPage2('Ueberuns', this, 'orange')">Über uns</button>
+  
+  <div id="Shop" class="tabcontent">
+  <p>Der Shop von Future casio</p>
+  <p>Kaufen sie jetzt unseren brandneuen Taschenrechner</p>
+</div>
+
+<div id="Huellendesignen" class="tabcontent">
+  <p>Some news this fine day!</p> 
+</div>
+
+<div id="Spenden" class="tabcontent">
+  <h3>Contact</h3>
+  <p>Get in touch, or swing by for a cup of coffee.</p>
+</div>
+
+<div id="Ueberuns" class="tabcontent">
+  <p>Who we are and what we do.</p>
+</div>
+  
+  <script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
 </body>
 </html> 
