@@ -85,10 +85,10 @@ body, html {
   
   <!--Obere Reiterbox-->
   
-<button class="tablink" onclick="openPage('Shop', this, 'darkblue')">Shop</button>
-<button class="tablink" onclick="openPage('Casedesigner', this, 'darkblue')" >Case Designer</button>
-<button class="tablink" onclick="openPage('Surveys', this, 'darkblue')">Surveys</button>
-<button class="tablink" onclick="openPage('Improvements', this, 'darkblue')">Improvments</button>
+<button class="tablink" onclick="openPage('Shop', this, '#2ecc71')">Shop</button>
+<button class="tablink" onclick="openPage('Casedesigner', this, '#2ecc71')" >Case Designer</button>
+<button class="tablink" onclick="openPage('Surveys', this, '#2ecc71')">Surveys</button>
+<button class="tablink" onclick="openPage('Improvements', this, '#2ecc71')">Improvments</button>
 
 <div id="Shop" class="tabcontent">
   <center>
@@ -138,10 +138,10 @@ document.getElementById("defaultOpen").click();
   
   <!--Untere Reiterbox-->
   
-<button class="tablink" onclick="openPage2('Donations', this, 'darkblue')">Donations</button>
-<button class="tablink" onclick="openPage2('Aboutus', this, 'darkblue')" >About us</button>
-<button class="tablink" onclick="openPage2('Rezensionen', this, 'darkblue')">Rezensionen</button>
-<button class="tablink" onclick="openPage2('QandA', this, 'darkblue')">Q&A</button>
+<button class="tablink" onclick="openPage2('Donations', this, '#2ecc71')">Donations</button>
+<button class="tablink" onclick="openPage2('Aboutus', this, '#2ecc71')" >About us</button>
+<button class="tablink" onclick="openPage2('Rezensionen', this, '#2ecc71')">Rezensionen</button>
+<button class="tablink" onclick="openPage2('QandA', this, '#2ecc71')">Q&A</button>
   
   <div id="Donations" class="tabcontent">
     <center>
