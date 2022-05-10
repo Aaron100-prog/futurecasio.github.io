@@ -207,14 +207,16 @@ document.getElementById("defaultOpen").click();
 </div>
 
 <div id="Rezensionen" class="tabcontent">
-  <p><br></p>
+  
   <center>
+    <p><br></p>
   <p>Critique can be harsh but also useful. We thank everyone that uses the review section to tell us the problems that they encountered while using our products and also the positive aspects they encountered.</p>
     <p><br></p>
     </center>
 </div>
 
 <div id="QandA" class="tabcontent">
+  <p><br></p>
   <p><br></p>
   <button class="accordion">Section 1</button>
 <div class="panel">
