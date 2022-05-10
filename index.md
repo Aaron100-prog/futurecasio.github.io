@@ -230,17 +230,23 @@ document.getElementById("defaultOpen").click();
     <p><br></p>
   <button class="accordion">What is casio connection and how does it work?</button>
 <div class="panel">
+  <p><br></p>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><br></p>
 </div>
 
 <button class="accordion">What are your plans for the future?</button>
 <div class="panel">
+  <p><br></p>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><br></p>
 </div>
 
 <button class="accordion">Section 3</button>
 <div class="panel">
+  <p><br></p>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p><br></p>
 </div>
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
