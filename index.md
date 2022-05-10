@@ -45,6 +45,23 @@ body, html {
   padding: 100px 20px;
   height: 100%;
 }
+  
+  .button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.button:hover {
+  background-color: #f1f1f1;
+}
 
 #Shop {background-color: darkblue;}
 #Casedesigner {background-color: darkblue;}
@@ -76,7 +93,7 @@ body, html {
 <div id="Shop" class="tabcontent">
   <center>
   <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
-  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop">Shop</a>
+  <a href="https://google.com" class="button">Go to Google</a>
     </center>
 </div>
 
