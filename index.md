@@ -189,6 +189,7 @@ document.getElementById("defaultOpen").click();
 <button class="tablink" onclick="openPage2('QandA', this, '#2ecc71')">Q&A</button>
   
   <div id="Donations" class="tabcontent">
+    <p><br></p>
     <center>
     <p><br></p>
     <p>We would be very happy to use the donations to improve our products and to help various Foundations like researches for cancer or to help people, that are currently in war or in a 3rd world country.</p>
@@ -197,6 +198,7 @@ document.getElementById("defaultOpen").click();
 </div>
 
 <div id="Aboutus" class="tabcontent">
+  <p><br></p>
   <center>
   <p><br></p>
   <p>Fehlt!</p> 
@@ -205,8 +207,8 @@ document.getElementById("defaultOpen").click();
 </div>
 
 <div id="Rezensionen" class="tabcontent">
-  <center>
   <p><br></p>
+  <center>
   <p>Critique can be harsh but also useful. We thank everyone that uses the review section to tell us the problems that they encountered while using our products and also the positive aspects they encountered.</p>
     <p><br></p>
     </center>
