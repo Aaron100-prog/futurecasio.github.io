@@ -208,7 +208,8 @@ document.getElementById("defaultOpen").click();
   <p><br></p>
     <p><br></p>
     <p><br></p>
-  <p>Fehlt!</p> 
+  <p>We are a subsidiary of calculator giant Casio, which has set itself the task of developing a n ultramodern educational device that will be sold in industrialized places such as the USA, Japan and parts of Europe.</p> 
+    <p> Our priorities are customer friendliness, openness and efficiency.</p> 
     <p><br></p>
     </center>
 </div>
@@ -243,6 +244,7 @@ document.getElementById("defaultOpen").click();
 </div>
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
+  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Support</a>
   <p><br></p>
 </div>
   
