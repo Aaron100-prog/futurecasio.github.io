@@ -244,7 +244,9 @@ document.getElementById("defaultOpen").click();
 </div>
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
+  <center>
   <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Support</a>
+    </center>
   <p><br></p>
 </div>
   
