@@ -1,9 +1,8 @@
-
-<html>
+<html xmlns='http://www.w3.org/1999/xhtml' lang='' xml:lang=''>
 <head>
-  <title>HTML title tag</title>
-  <meta charset = "utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset='utf-8' />
+	<meta name='viewport' content='width=device-width, user-scalable=no' />
+	<title>Casio</title>
 <style>
 * {box-sizing: border-box}
   
