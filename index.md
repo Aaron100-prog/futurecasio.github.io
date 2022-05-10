@@ -68,17 +68,17 @@ body, html {
 #Surveys {background-color: darkblue;}
 #Improvements  {background-color: darkblue;}
   
-#Donations {background-color: darkblue;}
-#Aboutus {background-color: darkblue;}
-#Rezensionen {background-color: darkblue;}
-#QandA {background-color: darkblue;}
+#Donations {background-color: #2ecc71;}
+#Aboutus {background-color: #2ecc71;}
+#Rezensionen {background-color: #2ecc71;}
+#QandA {background-color: #2ecc71;}
 </style>
 </head>
 <body style="background-color:black;">
   
 <center>
     <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
-    <p style="font-size: 30px;">The biggest revolution to standard calculators <b>yet</b></p>
+    <p style="font-size: 30px;">The biggest revolution to standard calculators <u><b>yet</b></u></p>
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">
 </center>
 
