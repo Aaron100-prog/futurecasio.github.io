@@ -48,7 +48,7 @@ body, html {
 .tabcontent {
   color: white;
   display: none;
-  padding: 50px 20px;
+  padding: 10px 20px;
   height: 100%;
 }
   
