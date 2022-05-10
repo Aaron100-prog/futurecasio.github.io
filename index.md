@@ -48,8 +48,8 @@ body, html {
 .tabcontent {
   color: white;
   display: none;
-  padding: 50px 20px;
-  height: 100%;
+  padding: 100px 20px;
+  height: 50%;
 }
   
   .button {
