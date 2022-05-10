@@ -74,11 +74,11 @@ body, html {
   height: 100%;
 }
   
-.button {
-  background-color: #ddd;
+ .button {
+  background-color: #000000;
   border: none;
-  color: black;
-  padding: 10px 20px;
+  color: red;
+  padding: 10px 40px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -86,9 +86,8 @@ body, html {
   cursor: pointer;
   border-radius: 16px;
 }
-
 .button:hover {
-  background-color: #f1f1f1;
+  background-color: white;
 }
   
   .accordion {
