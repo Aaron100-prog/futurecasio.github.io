@@ -80,7 +80,7 @@ body, html {
 }
 
 .active, .accordion:hover {
-  background-color: red; 
+  background-color: #555; 
 }
 
 .panel {
@@ -303,18 +303,18 @@ document.getElementById("defaultOpen").click();
   <p><br></p>
     <p><br></p>
     <p><br></p>
-  <button class="accordion"><p style="color: grey">What is casio connection and how does it work?</p></button>
+  <button class="accordion"><p style="color: white">What is casio connection and how does it work?</p></button>
 <div class="panel">
   <p>Casio Connection is an app adapted for school lessons. If the teacher connects their laptop to the product with a cable and Casio Connection is activated on their own device, he is the host and all students only need to activate Casio Connection as well. Then the teacher can directly set in the app which features should be on and which should be off, so that the students cannot cheat in tests, for example. If someone disconnects, the teacher sees this and recognizes the attempted fraud.</p>
 </div>
 
-  <button class="accordion"><p style="color: grey">What are your plans for the future?</p></button>
+  <button class="accordion"><p style="color: white">What are your plans for the future?</p></button>
 <div class="panel">
   <p>For the time being, we will mainly focus on our hopefully soon launch and will provide our device with more and more tools.
 If our product is very well received, we will move more and more towards a school device in the future and move away from the focus on math.</p>
 </div>
 
-  <button class="accordion"><p style="color: grey">When will you start with the production</p></button>
+  <button class="accordion"><p style="color: white">When will you start with the production</p></button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
@@ -373,6 +373,7 @@ document.getElementById("defaultOpen").click();
   <p><br></p>
   <p><br></p>
   <p><br></p>
+	  
 <footer>
   <div class="row">
   <div class="column" style="background-color:#aaa;">
