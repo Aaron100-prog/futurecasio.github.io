@@ -63,7 +63,7 @@ body, html {
 }
 
 .button:hover {
-  background-color: grey;
+  background-color: white;
 }
   
   .accordion {
