@@ -74,11 +74,11 @@ body, html {
   height: 100%;
 }
   
-  .button {
-  background-color: #000000;
+.button {
+  background-color: #ddd;
   border: none;
-  color: red;
-  padding: 10px 40px;
+  color: black;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -88,7 +88,7 @@ body, html {
 }
 
 .button:hover {
-  background-color: white;
+  background-color: #f1f1f1;
 }
   
   .accordion {
@@ -209,7 +209,7 @@ body, html {
   <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
     <p style="font-size: 30px; color: white">The biggest calculator revolution starts <u><b>now!</b></u></p>
   </div>
-    <img src="images/Taschenkind.png" alt="Test" width="600" height="540">
+    <img src="images/Taschenkind.png" alt="Test" width="900" height="810">
 </center>
 
   <p><br></p>
@@ -229,7 +229,7 @@ body, html {
     <p><br></p>
   <p>Would you like a Hightech-math product with a big range of tools & gadgets, or even a case to go with it?</p>
   <p>Then hit it!</p>
-	<a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button"><p style="color: red">Shop</p></a>
+	<button class="button">Support</button>
     <p><br></p>
     </center>
 </div>
@@ -346,7 +346,7 @@ If our product is very well received, we will move more and more towards a schoo
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
   <center>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support" class="button"><p style="color: red">Support</p></a>
+	  <button class="button">Support</button>
     </center>
   <p><br></p>
 </div>
