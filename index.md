@@ -6,7 +6,7 @@
 <style>
 * {box-sizing: border-box}
   
-	a:link {
+<!--	a:link {
   color: white;
   background-color: transparent;
   text-decoration: none;
@@ -28,7 +28,7 @@ a:active {
   color: white;
   background-color: transparent;
   text-decoration: none;
-}
+}-->
 	
 	
 .page-header{
