@@ -341,7 +341,7 @@ If our product is very well received, we will move more and more towards a schoo
 
   <button class="accordion"><p style="color: white">When will you start with the production</p></button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Mrs. Schäfer, please give us a good mark for our project. The whole thing took so long. Don't we deserve it?!</p>
 </div>
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
