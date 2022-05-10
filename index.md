@@ -1,10 +1,8 @@
 
 <html>
 <head>
+  <title>HTML title tag</title>
   <meta charset = "utf-8" />
-  <meta name="description" content="Die Website von Future Casio">
-  <meta name="title" content="Future Casio">
-  <title>Future Casio Website</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
