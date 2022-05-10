@@ -129,7 +129,7 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-  <p>Would you like a Hightech-math product with a big range of tools & gadgets, or even a product sleeve and case to go with it?</p>
+  <p>Would you like a Hightech-math product with a big range of tools & gadgets, or even a case to go with it?</p>
   <p>Then hit it!</p>
   <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Shop</a>
     <p><br></p>
