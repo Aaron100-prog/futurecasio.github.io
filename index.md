@@ -129,7 +129,8 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-  <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
+  <p>Would you like a Hightech-math product with a big range of tools & gadgets, or even a product sleeve and case to go with it?</p>
+  <p>Then hit it!</p>
   <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Shop</a>
     <p><br></p>
     </center>
@@ -139,8 +140,7 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-  <p>We give our customers a possibility to create a indiviual case for their own calculator. with this feature, we want to give our customers a bit of freedom in individualising their calculator.</p>
-  
+  <p>We give our customers the opportunity to create custom the sleeve and case for their own taste.</p>
   <p> WIP Cases</p>
     
     <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Open Designer</a>
@@ -152,7 +152,7 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-    <p>We will use surveys to make sure that our ideas are accepted by our customers or to ask them if our recent update was a sucess or a total flop.</p>
+    <p>Participate in our surveys to ensure that we make our products even better and give you, our customers, the very best.</p>
     <p><br></p>
   </center>
 </div>
@@ -161,7 +161,8 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-    <p>We love to be in touch with our customers. We love it so much that we decided to make a section on our website for people that want to be involved with the future of our products. We give them the opportunity to share their ideas to the world and of course, to us.</p>
+    <p>Contact with our customers is very important to us! We love it so much that we decided to create a section on our website for people who want to be involved in the future of our products. We give them the opportunity to share their ideas with the world and of course with us. We look forward to your suggestions.</p>
+<p>When we read a great idea, we ask our customers in the poll section if they think this idea should be used in future updates or projects.</p>
     <p><br></p>
   </center>
 </div>
@@ -197,7 +198,7 @@ document.getElementById("defaultOpen").click();
     <p><br></p>
     <p><br></p>
     <p><br></p>
-    <p>We would be very happy to use the donations to improve our products and to help various Foundations like researches for cancer or to help people, that are currently in war or in a 3rd world country.</p>
+    <p>Would you like to support other than buying and using our products? Then you can also donate to us here, which we use to improve our work and for various foundations such as cancer research or the environment.</p>
       <p><br></p>
       </center>
 </div>
@@ -212,12 +213,12 @@ document.getElementById("defaultOpen").click();
     </center>
 </div>
 
-<div id="Rezensionen" class="tabcontent">
+<div id="Reviews" class="tabcontent">
   <center>
     <p><br></p>
     <p><br></p>
     <p><br></p>
-  <p>Critique can be harsh but also useful. We thank everyone that uses the review section to tell us the problems that they encountered while using our products and also the positive aspects they encountered.</p>
+  <p>Criticism can be hard, but it can also be useful. Thank you to everyone who uses the review section to share with us the problems as well as the positives they encountered while using our products. You are also welcome to rate our central points such as technology, number of functions and possibilities with points from 1 to 10.</p>
     <p><br></p>
     </center>
 </div>
