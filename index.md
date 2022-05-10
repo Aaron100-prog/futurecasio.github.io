@@ -379,11 +379,6 @@ document.getElementById("defaultOpen").click();
 	  
 <footer>
 	<p><br></p>
-<p><br></p>
- <p><br></p>
-	<center>
-	  <img src="images/casio.png" alt="Test">
-	</center>
   <div class="row">
   <div class="column" style="background-color:black;">
 	  <center>
@@ -406,6 +401,9 @@ document.getElementById("defaultOpen").click();
 	  </center>
   </div>
 </div>
+	<center>
+	  <img src="images/casio.png" alt="Test">
+	</center>
 </footer> 
 </body>
 </html> 
