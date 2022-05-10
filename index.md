@@ -376,13 +376,17 @@ document.getElementById("defaultOpen").click();
 	  
 <footer>
   <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+  <div class="column" style="background-color:black;">
+    <a href="https://aaron100-prog.github.io/futurecasio.github.io/About">About</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Cookies">Cookies</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Legal">Legal</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Privacy">Privacy</a>
   </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+  <div class="column" style="background-color:black;">
+    <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support">Support</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/About us">About us</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Help">Help</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Credits">Credits</a>
   </div>
 </div>
 </footer> 
