@@ -50,7 +50,7 @@ body, html {
   background-color: #000000;
   border: none;
   color: red;
-  padding: 10px 20px;
+  padding: 10px 40px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
