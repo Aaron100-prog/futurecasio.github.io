@@ -68,8 +68,8 @@ body, html {
 }
   
   .accordion {
-  background-color: #eee;
-  color: #444;
+  background-color: black;
+  color: darkgrey;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -147,6 +147,25 @@ body, html {
   to {opacity:1 ;}
 }
   
+  * {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+  
 
 #Store {background-color: #2ecc71;}
 #Casedesigner {background-color: #2ecc71;}
@@ -164,7 +183,7 @@ body, html {
 <center>
   <div class="centered">
   <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
-    <p style="font-size: 30px;">The biggest revolution to standard calculators <u><b>yet</b></u></p>
+    <p style="font-size: 30px; color: white">The biggest calculator revolution starts <u><b>now!</b></u></p>
   </div>
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">
 </center>
@@ -285,18 +304,18 @@ document.getElementById("defaultOpen").click();
   <p><br></p>
     <p><br></p>
     <p><br></p>
-  <button class="accordion">What is casio connection and how does it work?</button>
+  <button class="accordion"><p style="color: grey">What is casio connection and how does it work?</p></button>
 <div class="panel">
   <p>Casio Connection is an app adapted for school lessons. If the teacher connects their laptop to the product with a cable and Casio Connection is activated on their own device, he is the host and all students only need to activate Casio Connection as well. Then the teacher can directly set in the app which features should be on and which should be off, so that the students cannot cheat in tests, for example. If someone disconnects, the teacher sees this and recognizes the attempted fraud.</p>
 </div>
 
-<button class="accordion">What are your plans for the future?</button>
+  <button class="accordion"><p style="color: grey">What are your plans for the future?</p></button>
 <div class="panel">
   <p>For the time being, we will mainly focus on our hopefully soon launch and will provide our device with more and more tools.
 If our product is very well received, we will move more and more towards a school device in the future and move away from the focus on math.</p>
 </div>
 
-<button class="accordion">Section 3</button>
+  <button class="accordion"><p style="color: grey">When will you start with the production</p></button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
