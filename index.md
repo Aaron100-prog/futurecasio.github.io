@@ -69,7 +69,7 @@ body, html {
   background-color: #f1f1f1;
 }
 
-#Shop {background-color: #2ecc71;}
+#Store {background-color: #2ecc71;}
 #Casedesigner {background-color: #2ecc71;}
 #Surveys {background-color: #2ecc71;}
 #Improvements  {background-color: #2ecc71;}
@@ -93,15 +93,15 @@ body, html {
   
   <!--Obere Reiterbox-->
   
-<button class="tablink" onclick="openPage('Shop', this, '#2ecc71')">Shop</button>
+<button class="tablink" onclick="openPage('Store', this, '#2ecc71')">Store</button>
 <button class="tablink" onclick="openPage('Casedesigner', this, '#2ecc71')" >Case Designer</button>
 <button class="tablink" onclick="openPage('Surveys', this, '#2ecc71')">Surveys</button>
 <button class="tablink" onclick="openPage('Improvements', this, '#2ecc71')">Improvments</button>
 
-<div id="Shop" class="tabcontent">
+<div id="Store" class="tabcontent">
   <center>
   <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
-  <a href="https://google.com" class="button">Shop</a>
+  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Shop</a>
     </center>
 </div>
 
@@ -110,6 +110,8 @@ body, html {
   <p>We give our customers a possibility to create a indiviual case for their own calculator. with this feature, we want to give our customers a bit of freedom in individualising their calculator.</p>
   
   <p> WIP Cases</p>
+    
+    <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Open Designer</a>
     </center>
 </div>
 
