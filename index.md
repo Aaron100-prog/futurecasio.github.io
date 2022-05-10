@@ -121,7 +121,7 @@ body, html {
   <!--Obere Reiterbox-->
   
 <button class="tablink" onclick="openPage('Store', this, '#2ecc71')">Store</button>
-<button class="tablink" onclick="openPage('Casedesigner', this, '#2ecc71')" >Case Designer</button>
+<button class="tablink" onclick="openPage('Casedesigner', this, '#2ecc71')" >Case Designer(WIP)</button>
 <button class="tablink" onclick="openPage('Surveys', this, '#2ecc71')">Surveys</button>
 <button class="tablink" onclick="openPage('Improvements', this, '#2ecc71')">Improvements</button>
 
@@ -141,6 +141,7 @@ body, html {
     <p><br></p>
     <p><br></p>
   <p>Comes in the future.</p>
+  <p>(create custom the sleeve and case for their own taste)</p>
     
     <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Open Designer</a>
     <p><br></p>
