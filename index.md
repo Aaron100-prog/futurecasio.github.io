@@ -69,10 +69,10 @@ body, html {
   background-color: #f1f1f1;
 }
 
-#Shop {background-color: darkblue;}
-#Casedesigner {background-color: darkblue;}
-#Surveys {background-color: darkblue;}
-#Improvements  {background-color: darkblue;}
+#Shop {background-color: #2ecc71;}
+#Casedesigner {background-color: #2ecc71;}
+#Surveys {background-color: #2ecc71;}
+#Improvements  {background-color: #2ecc71;}
   
 #Donations {background-color: #2ecc71;}
 #Aboutus {background-color: #2ecc71;}
