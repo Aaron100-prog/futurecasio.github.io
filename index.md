@@ -229,7 +229,7 @@ body, html {
     <p><br></p>
   <p>Would you like a Hightech-math product with a big range of tools & gadgets, or even a case to go with it?</p>
   <p>Then hit it!</p>
-  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Shop</a>
+	<a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button"><p style="color: red">Shop</p></a>
     <p><br></p>
     </center>
 </div>
@@ -346,7 +346,7 @@ If our product is very well received, we will move more and more towards a schoo
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
   <center>
-  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support" class="button">Support</a>
+	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support" class="button"><p style="color: red">Support</p></a>
     </center>
   <p><br></p>
 </div>
