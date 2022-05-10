@@ -48,7 +48,7 @@ body, html {
 .tabcontent {
   color: white;
   display: none;
-  padding: 100px 20px;
+  padding: 50px 20px;
   height: 100%;
 }
   
@@ -114,6 +114,7 @@ body, html {
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">
 </center>
 
+  <p><br></p>
   <p><br></p>
   <p><br></p>
   
