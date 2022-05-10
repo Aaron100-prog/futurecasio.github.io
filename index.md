@@ -372,6 +372,10 @@ document.getElementById("defaultOpen").click();
   
   <p><br></p>
   <p><br></p>
+	<center>
+	  <img src="images/casio.png" alt="Test">
+	</center>
+  <p><br></p>
   <p><br></p>
 	  
 <footer>
