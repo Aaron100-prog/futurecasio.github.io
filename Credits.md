@@ -7,12 +7,12 @@
 	
 </style>
 </head>
-  <body>
+  <body style="background-color:black;">
     <center>
      <a href="https://aaron100-prog.github.io/futurecasio.github.io/"><-Back</a>
-       <p>Website created by Aaron<p>
-       <p>Created for the Englich project by Manuel, Micheal, Roen, the kleine Dreckschleuder Leon and Aaron<p>
+       <p style="color: white">Website created by Aaron<p>
+       <p style="color: white">Created for the Englich project by Manuel, Micheal, Roen, the kleine Dreckschleuder Leon and Aaron<p>
        <p><br></p>
-       <p>Actually took us more then <b>14</b> hours at home</p>
+       <p style="color: white">Actually took us more then <b>14</b> hours at home</p>
      </center>
   </body>
