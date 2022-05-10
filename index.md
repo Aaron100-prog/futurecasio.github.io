@@ -377,16 +377,16 @@ document.getElementById("defaultOpen").click();
 <footer>
   <div class="row">
   <div class="column" style="background-color:black;">
-    <a href="https://aaron100-prog.github.io/futurecasio.github.io/About">About</a>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Cookies">Cookies</a>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Legal">Legal</a>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Privacy">Privacy</a>
+    <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/About">About</a></p>
+	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Cookies">Cookies</a></p>
+	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Legal">Legal</a></p>
+	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Privacy">Privacy</a></p>
   </div>
   <div class="column" style="background-color:black;">
-    <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support">Support</a>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/About us">About us</a>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Help">Help</a>
-	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Credits">Credits</a>
+    <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Support">Support</a></p>
+	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/About us">About us</a></p>
+	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Help">Help</a></p>
+	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Credits">Credits</a></p>
   </div>
 </div>
 </footer> 
