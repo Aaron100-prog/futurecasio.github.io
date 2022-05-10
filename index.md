@@ -228,7 +228,7 @@ document.getElementById("defaultOpen").click();
     <p><br></p>
   <button class="accordion">What is casio connection and how does it work?</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>Casio Connection is an app adapted for school lessons. If the teacher connects their laptop to the product with a cable and Casio Connection is activated on their own device, he is the host and all students only need to activate Casio Connection as well. Then the teacher can directly set in the app which features should be on and which should be off, so that the students cannot cheat in tests, for example. If someone disconnects, the teacher sees this and recognizes the attempted fraud.</p>
 </div>
 
 <button class="accordion">What are your plans for the future?</button>
