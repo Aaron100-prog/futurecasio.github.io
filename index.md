@@ -140,8 +140,7 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-  <p>We give our customers the opportunity to create custom the sleeve and case for their own taste.</p>
-  <p> WIP Cases</p>
+  <p>Comes in the future.</p>
     
     <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Open Designer</a>
     <p><br></p>
