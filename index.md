@@ -129,8 +129,6 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-    <p><br></p>
-    <p><br></p>
   <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
   <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Shop</a>
     <p><br></p>
@@ -139,8 +137,6 @@ body, html {
 
 <div id="Casedesigner" class="tabcontent">
   <center>
-    <p><br></p>
-    <p><br></p>
     <p><br></p>
     <p><br></p>
   <p>We give our customers a possibility to create a indiviual case for their own calculator. with this feature, we want to give our customers a bit of freedom in individualising their calculator.</p>
@@ -156,8 +152,6 @@ body, html {
   <center>
     <p><br></p>
     <p><br></p>
-    <p><br></p>
-    <p><br></p>
     <p>We will use surveys to make sure that our ideas are accepted by our customers or to ask them if our recent update was a sucess or a total flop.</p>
     <p><br></p>
   </center>
@@ -165,8 +159,6 @@ body, html {
 
 <div id="Improvements" class="tabcontent">
   <center>
-    <p><br></p>
-    <p><br></p>
     <p><br></p>
     <p><br></p>
     <p>We love to be in touch with our customers. We love it so much that we decided to make a section on our website for people that want to be involved with the future of our products. We give them the opportunity to share their ideas to the world and of course, to us.</p>
@@ -205,7 +197,6 @@ document.getElementById("defaultOpen").click();
     <p><br></p>
     <p><br></p>
     <p><br></p>
-    <p><br></p>
     <p>We would be very happy to use the donations to improve our products and to help various Foundations like researches for cancer or to help people, that are currently in war or in a 3rd world country.</p>
       <p><br></p>
       </center>
@@ -214,7 +205,6 @@ document.getElementById("defaultOpen").click();
 <div id="Aboutus" class="tabcontent">
   <center>
   <p><br></p>
-    <p><br></p>
     <p><br></p>
     <p><br></p>
   <p>Fehlt!</p> 
@@ -227,7 +217,6 @@ document.getElementById("defaultOpen").click();
     <p><br></p>
     <p><br></p>
     <p><br></p>
-    <p><br></p>
   <p>Critique can be harsh but also useful. We thank everyone that uses the review section to tell us the problems that they encountered while using our products and also the positive aspects they encountered.</p>
     <p><br></p>
     </center>
@@ -235,7 +224,6 @@ document.getElementById("defaultOpen").click();
 
 <div id="QandA" class="tabcontent">
   <p><br></p>
-    <p><br></p>
     <p><br></p>
     <p><br></p>
   <button class="accordion">Section 1</button>
