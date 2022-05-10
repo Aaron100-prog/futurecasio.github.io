@@ -49,7 +49,7 @@ body, html {
   color: white;
   display: none;
   padding: 20px 20px;
-  height: 100%;
+  height: 50%;
 }
   
   .button {
