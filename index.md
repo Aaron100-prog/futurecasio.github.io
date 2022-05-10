@@ -83,13 +83,10 @@ body, html {
 <body style="background-color:black;">
   
 <center>
-<div class="container">
-  <div class="rectangle"></div>
   <div class="centered">
   <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
     <p style="font-size: 30px;">The biggest revolution to standard calculators <u><b>yet</b></u></p>
   </div>
-</div> 
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">
 </center>
 
