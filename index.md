@@ -209,7 +209,7 @@ body, html {
   <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
     <p style="font-size: 30px; color: white">The biggest calculator revolution starts <u><b>now!</b></u></p>
   </div>
-    <img src="images/schueler-in-friedrichshafen.png" alt="Test">
+    <img src="images/Taschenkind.png" alt="Test">
 </center>
 
   <p><br></p>
