@@ -375,12 +375,6 @@ function openPage2(pageName,elmnt,color) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-  
-  <p><br></p>
-  <p><br></p>
-	<center>
-	  <img src="images/casio.png" alt="Test">
-	</center>
   <p><br></p>
   <p><br></p>
 	  
