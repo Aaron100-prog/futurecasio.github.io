@@ -6,6 +6,31 @@
 <style>
 * {box-sizing: border-box}
   
+	a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+	
+	
 .page-header{
 color:#ffff;
 background-color:#A067AB;
