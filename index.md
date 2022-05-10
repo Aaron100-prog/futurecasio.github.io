@@ -100,7 +100,7 @@ body, html {
   
 #Donations {background-color: #2ecc71;}
 #Aboutus {background-color: #2ecc71;}
-#Rezensionen {background-color: #2ecc71;}
+#Reviews {background-color: #2ecc71;}
 #QandA {background-color: #2ecc71;}
 </style>
 </head>
@@ -123,7 +123,7 @@ body, html {
 <button class="tablink" onclick="openPage('Store', this, '#2ecc71')">Store</button>
 <button class="tablink" onclick="openPage('Casedesigner', this, '#2ecc71')" >Case Designer</button>
 <button class="tablink" onclick="openPage('Surveys', this, '#2ecc71')">Surveys</button>
-<button class="tablink" onclick="openPage('Improvements', this, '#2ecc71')">Improvments</button>
+<button class="tablink" onclick="openPage('Improvements', this, '#2ecc71')">Improvements</button>
 
 <div id="Store" class="tabcontent">
   <center>
@@ -190,7 +190,7 @@ document.getElementById("defaultOpen").click();
   
 <button class="tablink" onclick="openPage2('Donations', this, '#2ecc71')">Donations</button>
 <button class="tablink" onclick="openPage2('Aboutus', this, '#2ecc71')" >About us</button>
-<button class="tablink" onclick="openPage2('Rezensionen', this, '#2ecc71')">Rezensionen</button>
+<button class="tablink" onclick="openPage2('Rezensionen', this, '#2ecc71')">Reviews</button>
 <button class="tablink" onclick="openPage2('QandA', this, '#2ecc71')">Q&A</button>
   
   <div id="Donations" class="tabcontent">
