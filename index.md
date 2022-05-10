@@ -12,6 +12,12 @@ color:#ffff;
 background-color:#A067AB;
 background-image:linear-gradient(120deg,#5073B8,#A067AB);
 }
+	
+.transparent-style{
+
+    background-color: black;
+
+}
 /* Set height of body and the document to 100% */
 body, html {
   height: 100%;
