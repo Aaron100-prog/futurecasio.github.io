@@ -14,5 +14,3 @@
        <p style="color: white">Created for the Englich project by Manuel, Micheal, Roen, the kleine Dreckschleuder Leon and Aaron<p>
        <p><br></p>
        <p style="color: white">Actually took us more then <b>14</b> hours at home</p>
-     </center>
-  </body>
