@@ -292,7 +292,8 @@ document.getElementById("defaultOpen").click();
 
 <button class="accordion">What are your plans for the future?</button>
 <div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <p>For the time being, we will mainly focus on our hopefully soon launch and will provide our device with more and more tools.
+If our product is very well received, we will move more and more towards a school device in the future and move away from the focus on math.</p>
 </div>
 
 <button class="accordion">Section 3</button>
