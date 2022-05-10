@@ -190,7 +190,7 @@ document.getElementById("defaultOpen").click();
   
 <button class="tablink" onclick="openPage2('Donations', this, '#2ecc71')">Donations</button>
 <button class="tablink" onclick="openPage2('Aboutus', this, '#2ecc71')" >About us</button>
-<button class="tablink" onclick="openPage2('Rezensionen', this, '#2ecc71')">Reviews</button>
+<button class="tablink" onclick="openPage2('Reviews', this, '#2ecc71')">Reviews</button>
 <button class="tablink" onclick="openPage2('QandA', this, '#2ecc71')">Q&A</button>
   
   <div id="Donations" class="tabcontent">
