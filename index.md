@@ -20,6 +20,12 @@ body, html {
   margin: 0;
   font-family: Arial;
 }
+  
+ .rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
 
 /* Style tab links */
 .tablink {
@@ -77,8 +83,13 @@ body, html {
 <body style="background-color:black;">
   
 <center>
-    <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
+<div class="container">
+  <div class="rectangle"></div>
+  <div class="centered">
+  <h1 style="font-size: 60px; color: #2ecc71">Casio</h1>
     <p style="font-size: 30px;">The biggest revolution to standard calculators <u><b>yet</b></u></p>
+  </div>
+</div> 
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">
 </center>
 
