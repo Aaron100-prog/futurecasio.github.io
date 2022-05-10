@@ -47,9 +47,9 @@ body, html {
 }
   
   .button {
-  background-color: #ddd;
+  background-color: #000000;
   border: none;
-  color: pink;
+  color: red;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
