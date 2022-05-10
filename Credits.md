@@ -26,6 +26,5 @@ body, html {
        <p>Created for the Englich project by Manuel, Micheal, Roen, the kleine Dreckschleuder Leon and Aaron<p>
        <p><br></p>
        <p>Actually took us more then <b>14</b> hours at home</p>
-       
-         </center>
+     </center>
   </body>
