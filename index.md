@@ -46,49 +46,50 @@ body, html {
   height: 100%;
 }
 
-#Shop {background-color: red;}
-#Huellendesignen {background-color: green;}
-#Spenden {background-color: blue;}
-#Ueberuns {background-color: orange;}
+#Shop {background-color: darkblue;}
+#Casedesigner {background-color: darkblue;}
+#Surveys {background-color: darkblue;}
+#Improvements  {background-color: darkblue;}
   
-#Umfragen {background-color: red;}
-#Verbesserungsvorschlaege {background-color: green;}
-#Rezensionen {background-color: blue;}
-#Q&A {background-color: orange;}
+#Donations {background-color: darkblue;}
+#Aboutus {background-color: darkblue;}
+#Rezensionen {background-color: darkblue;}
+#Q&A {background-color: darkblue;}
 </style>
 </head>
 <body style="background-color:black;">
   
 <center>
-    <h1 style="font-size: 4rem; color: #2ecc71">Future Casio</h1>
-    <p>Die Revolution der Casio Taschenrechner!</p>
+    <h1 style="font-size: 4rem; color: #2ecc71">Casio</h1>
+    <p>The biggest revolution to standard calculators yet</p>
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">>
 </center>
 
   
   <!--Obere Reiterbox-->
   
-<button class="tablink" onclick="openPage('Shop', this, 'red')">Shop</button>
-<button class="tablink" onclick="openPage('Huellendesignen', this, 'green')" >Hüllen designen</button>
-<button class="tablink" onclick="openPage('Spenden', this, 'blue')">Spenden</button>
-<button class="tablink" onclick="openPage('Ueberuns', this, 'orange')">Über uns</button>
+<button class="tablink" onclick="openPage('Shop', this, 'darkblue')">Shop</button>
+<button class="tablink" onclick="openPage('Casedesigner', this, 'darkblue')" >Case Designer</button>
+<button class="tablink" onclick="openPage('Surveys', this, 'darkblue')">Surveys</button>
+<button class="tablink" onclick="openPage('Improvements', this, 'darkblue')">Improvments</button>
 
 <div id="Shop" class="tabcontent">
-  <p>Der Shop von Future casio</p>
-  <p>Kaufen sie jetzt unseren brandneuen Taschenrechner</p>
+  <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
+  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop">Shop</a>
 </div>
 
-<div id="Huellendesignen" class="tabcontent">
-  <p>Some news this fine day!</p> 
+<div id="Casedesigner" class="tabcontent">
+  <p>We give our customers a possibility to create a indiviual case for their own calculator. with this feature, we want to give our customers a bit of freedom in individualising their calculator.</p>
+  
+  <p> WIP Cases</p>
 </div>
 
-<div id="Spenden" class="tabcontent">
-  <h3>Contact</h3>
-  <p>Get in touch, or swing by for a cup of coffee.</p>
+<div id="Surveys" class="tabcontent">
+  <p>We will use surveys to make sure that our ideas are accepted by our customers or to ask them if our recent update was a sucess or a total flop.</p>
 </div>
 
-<div id="Ueberuns" class="tabcontent">
-  <p>Who we are and what we do.</p>
+<div id="Improvements" class="tabcontent">
+  <p>We love to be in touch with our customers. We love it so much that we decided to make a section on our website for people that want to be involved with the future of our products. We give them the opportunity to share their ideas to the world and of course, to us.</p>
 </div>
 
 <script>
@@ -112,27 +113,25 @@ document.getElementById("defaultOpen").click();
   
   <!--Untere Reiterbox-->
   
-<button class="tablink" onclick="openPage2('Umfragen', this, 'red')">Umfragen</button>
-<button class="tablink" onclick="openPage2('Verbesserungsvorschlaege', this, 'green')" >Verbesserungsvorschläge</button>
-<button class="tablink" onclick="openPage2('Rezensionen', this, 'blue')">Rezensionen</button>
-<button class="tablink" onclick="openPage2('Q&A', this, 'orange')">Q&A</button>
+<button class="tablink" onclick="openPage2('Donations', this, 'darkblue')">Donations</button>
+<button class="tablink" onclick="openPage2('Aboutus', this, 'darkblue')" >About us</button>
+<button class="tablink" onclick="openPage2('Rezensionen', this, 'darkblue')">Rezensionen</button>
+<button class="tablink" onclick="openPage2('Q&A', this, 'darkblue')">Q&A</button>
   
-  <div id="Umfragen" class="tabcontent">
-  <p>Der Shop von Future casio</p>
-  <p>Kaufen sie jetzt unseren brandneuen Taschenrechner</p>
+  <div id="Donations" class="tabcontent">
+    <p>We would be very happy to use the donations to improve our products and to help various Foundations like researches for cancer or to help people, that are currently in war or in a 3rd world country.</p>
 </div>
 
-<div id="Verbesserungsvorschlaege" class="tabcontent">
-  <p>Some news this fine day!</p> 
+<div id="Aboutus" class="tabcontent">
+  <p>Fehlt!</p> 
 </div>
 
 <div id="Rezensionen" class="tabcontent">
-  <h3>Contact</h3>
-  <p>Get in touch, or swing by for a cup of coffee.</p>
+  <p>Critique can be harsh but also useful. We thank everyone that uses the review section to tell us the problems that they encountered while using our products and also the positive aspects they encountered.</p>
 </div>
 
 <div id="Q&A" class="tabcontent">
-  <p>Who we are and what we do.</p>
+  <p>Fehlt!</p>
 </div>
   
   <script>
