@@ -49,7 +49,7 @@ body, html {
   .button {
   background-color: #ddd;
   border: none;
-  color: black;
+  color: pink;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -93,7 +93,7 @@ body, html {
 <div id="Shop" class="tabcontent">
   <center>
   <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
-  <a href="https://google.com" class="button">Go to Google</a>
+  <a href="https://google.com" class="button">Shop</a>
     </center>
 </div>
 
