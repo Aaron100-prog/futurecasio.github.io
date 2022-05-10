@@ -81,13 +81,13 @@ body, html {
 }
 
 .active, .accordion:hover {
-  background-color: #ccc; 
+  background-color: grey; 
 }
 
 .panel {
   padding: 0 18px;
   display: none;
-  background-color: white;
+  background-color: black;
   overflow: hidden;
 }
   /* Popup container - can be anything you want */
