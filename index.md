@@ -74,14 +74,18 @@ body, html {
 <button class="tablink" onclick="openPage('Improvements', this, 'darkblue')">Improvments</button>
 
 <div id="Shop" class="tabcontent">
+  <center>
   <p>From our calculator to a large variety of tools & gadgets, we have everything that your heart desires.</p>
   <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop">Shop</a>
+    </center>
 </div>
 
 <div id="Casedesigner" class="tabcontent">
+  <center>
   <p>We give our customers a possibility to create a indiviual case for their own calculator. with this feature, we want to give our customers a bit of freedom in individualising their calculator.</p>
   
   <p> WIP Cases</p>
+    </center>
 </div>
 
 <div id="Surveys" class="tabcontent">
