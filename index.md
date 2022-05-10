@@ -153,5 +153,9 @@ function openPage2(pageName,elmnt,color) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
+  
+  <p> </p>
+  <p> </p>
+  <p> </p>
 </body>
 </html> 
