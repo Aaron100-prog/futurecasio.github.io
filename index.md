@@ -54,7 +54,7 @@ body, html {
 #Donations {background-color: darkblue;}
 #Aboutus {background-color: darkblue;}
 #Rezensionen {background-color: darkblue;}
-#Q&A {background-color: darkblue;}
+#QandA {background-color: darkblue;}
 </style>
 </head>
 <body style="background-color:black;">
@@ -116,7 +116,7 @@ document.getElementById("defaultOpen").click();
 <button class="tablink" onclick="openPage2('Donations', this, 'darkblue')">Donations</button>
 <button class="tablink" onclick="openPage2('Aboutus', this, 'darkblue')" >About us</button>
 <button class="tablink" onclick="openPage2('Rezensionen', this, 'darkblue')">Rezensionen</button>
-<button class="tablink" onclick="openPage2('Q&A', this, 'darkblue')">Q&A</button>
+<button class="tablink" onclick="openPage2('QandA', this, 'darkblue')">Q&A</button>
   
   <div id="Donations" class="tabcontent">
     <p>We would be very happy to use the donations to improve our products and to help various Foundations like researches for cancer or to help people, that are currently in war or in a 3rd world country.</p>
@@ -130,7 +130,7 @@ document.getElementById("defaultOpen").click();
   <p>Critique can be harsh but also useful. We thank everyone that uses the review section to tell us the problems that they encountered while using our products and also the positive aspects they encountered.</p>
 </div>
 
-<div id="Q&A" class="tabcontent">
+<div id="QandA" class="tabcontent">
   <p>Fehlt!</p>
 </div>
   
