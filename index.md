@@ -90,6 +90,63 @@ body, html {
   background-color: white;
   overflow: hidden;
 }
+  /* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+  
 
 #Store {background-color: #2ecc71;}
 #Casedesigner {background-color: #2ecc71;}
@@ -140,8 +197,10 @@ body, html {
     <p><br></p>
   <p>Comes in the future.</p>
   <p>(create custom the sleeve and case for their own taste)</p>
+    <div class="popup" onclick="Popupfunction()"><a class="button">Open Designer</a>
+  <span class="popuptext" id="myPopup">Still WIP sry!</span>
+</div>
     
-    <a href="https://aaron100-prog.github.io/futurecasio.github.io/Shop" class="button">Open Designer</a>
     <p><br></p>
     </center>
 </div>
@@ -265,6 +324,14 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
   
+    <script>
+// When the user clicks on div, open the popup
+function Popupfunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+    
   <script>
 function openPage2(pageName,elmnt,color) {
   var i, tabcontent, tablinks;
@@ -287,5 +354,8 @@ document.getElementById("defaultOpen").click();
   <p><br></p>
   <p><br></p>
   <p><br></p>
+<footer>
+  
+</footer> 
 </body>
 </html> 
