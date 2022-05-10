@@ -376,7 +376,11 @@ function openPage2(pageName,elmnt,color) {
 document.getElementById("defaultOpen").click();
 </script>
   <p><br></p>
-  <p><br></p>
+	  <p><br></p>
+	<center>
+	  <img src="images/casio.png" alt="Test">
+	</center>
+	  <p><br></p>
 	  
 <footer>
   <div class="row">
