@@ -80,7 +80,7 @@ body, html {
 }
 
 .active, .accordion:hover {
-  background-color: grey; 
+  background-color: red; 
 }
 
 .panel {
