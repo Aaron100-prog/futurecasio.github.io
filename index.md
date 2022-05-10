@@ -78,7 +78,7 @@ body, html {
   
 <center>
     <h1 style="font-size: 4rem; color: #2ecc71">Casio</h1>
-    <p>The biggest revolution to standard calculators yet</p>
+    <p>The biggest revolution to standard calculators <b>yet</b></p>
     <img src="images/schueler-in-friedrichshafen.png" alt="Test">>
 </center>
 
