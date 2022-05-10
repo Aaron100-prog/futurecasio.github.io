@@ -199,6 +199,7 @@ document.getElementById("defaultOpen").click();
 </div>
 
 <div id="QandA" class="tabcontent">
+  <p><br></p>
   <button class="accordion">Section 1</button>
 <div class="panel">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -251,8 +252,8 @@ function openPage2(pageName,elmnt,color) {
 document.getElementById("defaultOpen").click();
 </script>
   
-  <p> </p>
-  <p> </p>
-  <p> </p>
+  <p><br></p>
+  <p><br></p>
+  <p><br></p>
 </body>
 </html> 
