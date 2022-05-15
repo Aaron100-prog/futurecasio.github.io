@@ -182,7 +182,7 @@ body, html {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: #777;
+  background-color: #2ecc71;
 }
 	
 #element1 {display:inline-block;}
@@ -418,7 +418,7 @@ document.getElementById("defaultOpen").click();
   </div>
 </div>
 	<center>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/casio.png" alt="Test"></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div>
 		<p><br></p>
