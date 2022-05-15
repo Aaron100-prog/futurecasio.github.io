@@ -206,7 +206,12 @@ body, html {
   <h1 style="font-size: 60px; color: #2ecc71">Future Casio</h1>
     <p style="font-size: 30px; color: white">The biggest calculator revolution starts <u><b>now!</b></u></p>
   </div>
+	<div id="element1">
     <img src="images/Scattersehrvielcock.png" alt="Test" > <!--width="600" height="540"-->
+		</div>
+		<div id="element1">
+	<img src="images/Es tut weh, so sehr.png" alt="Test" >
+	</div>
 </center>
 
   <p><br></p>
