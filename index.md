@@ -414,11 +414,11 @@ document.getElementById("defaultOpen").click();
   </div>
 </div>
 	<center>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="30" height="30"></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/124021.png" alt="Test" width="30" height="30"></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/Patreon_logo.svg.png" alt="Test" width="30" height="30"></button> </div>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/Instagram_icon.png" alt="Test" width="30" height="30"></button> </div>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/1384060.png" alt="Test" width="30" height="30"></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40"></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><img src="images/124021.png" alt="Test" width="40" height="40"></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><img src="images/Patreon_logo.svg.png" alt="Test" width="40" height="40"></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><img src="images/Instagram_icon.png" alt="Test" width="40" height="40"></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><img src="images/1384060.png" alt="Test" width="40" height="40"></button> </div>
 		<p><br></p>
 	<a href="https://www.casio-europe.com/euro/"><img src="images/casio.png" alt="Test" width="426" height="82"></a>
 		
