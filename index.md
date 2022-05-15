@@ -418,10 +418,9 @@ document.getElementById("defaultOpen").click();
   </div>
 </div>
 	<center>
-	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><img src="images/casio.png" alt="Test"></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div>
-		<p><br></p>
 		<p><br></p>
 	  <img src="images/casio.png" alt="Test" width="426" height="82">
 	</center>
