@@ -348,7 +348,9 @@ If our product is very well received, we will move more and more towards a schoo
 	
 	<p><br></p>
 </div>
-	
+	<div id="element1">
+		<hr>
+	</div>
   
   <script>
 var acc = document.getElementsByClassName("accordion");
@@ -397,9 +399,6 @@ document.getElementById("defaultOpen").click();
 	  
 	  
 <footer>
-	<div>
-  <hr>
-	  </div>
   <div class="row">
   <div class="column" style="background-color:black;">
 	  <center>
