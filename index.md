@@ -182,7 +182,7 @@ body, html {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: #2ecc71;
+  background-color: darkgreen;
 }
 	
 #element1 {display:inline-block;}
