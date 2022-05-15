@@ -393,6 +393,7 @@ document.getElementById("defaultOpen").click();
   
 	  
 <footer>
+	<hr>
   <div class="row">
   <div class="column" style="background-color:black;">
 	  <center>
@@ -413,6 +414,7 @@ document.getElementById("defaultOpen").click();
 	  </center>
   </div>
 </div>
+	<hr>
 	<center>
 	<div id="element1"> <button class="btn"><i class=""></i><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40"></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i><img src="images/124021.png" alt="Test" width="40" height="40"></button> </div> 
