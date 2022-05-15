@@ -348,9 +348,8 @@ If our product is very well received, we will move more and more towards a schoo
 	
 	<p><br></p>
 </div>
-	<div id="element1">
-		<hr>
-	</div>
+	<p style="color: white">test123</p>
+	<hr>
   
   <script>
 var acc = document.getElementsByClassName("accordion");
