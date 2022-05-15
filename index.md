@@ -170,6 +170,22 @@ body, html {
   display: table;
   clear: both;
 }
+	
+	.btn {
+  background-color: #2ecc71;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #777;
+}
+	
+#element1 {display:inline-block;}
   
 
 #Store {background-color: #2ecc71;}
@@ -378,6 +394,10 @@ document.getElementById("defaultOpen").click();
   
 	  
 <footer>
+	<p><br></p>
+	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
 	<p><br></p>
   <div class="row">
   <div class="column" style="background-color:black;">
