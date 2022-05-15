@@ -345,9 +345,10 @@ If our product is very well received, we will move more and more towards a schoo
 	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support" class="button">Support</a>
     </center>
   <p><br></p>
-	<hr>
+	
 	<p><br></p>
 </div>
+	<hr>
   
   <script>
 var acc = document.getElementsByClassName("accordion");
