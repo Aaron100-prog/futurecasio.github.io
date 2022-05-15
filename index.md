@@ -348,7 +348,7 @@ If our product is very well received, we will move more and more towards a schoo
 	
 	<p><br></p>
 </div>
-	<p style="color: white">test123</p>
+	<p style="color: white"></p>
 	<hr>
   
   <script>
@@ -420,9 +420,7 @@ document.getElementById("defaultOpen").click();
 </div>
 	
 	<center>
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.facebook.com/Casioisalreadyused" target="_blank"><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i><a href="https://twitter.com/Casioisalreadyused" target="_blank"><img src="images/124021.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.patreon.com/Casioisalreadyused?l=en" target="_blank"><img src="images/Patreon_logo.svg.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
 	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.instagram.com/Casioisalreadyused/" target="_blank"><img src="images/Instagram_icon.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
 	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.youtube.com/c/Casioisalreadyused" target="_blank"><img src="images/1384060.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
 		<p><br></p>
