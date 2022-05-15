@@ -10,8 +10,12 @@
   <body style="background-color:black;">
     <center>
      <a href="https://aaron100-prog.github.io/futurecasio.github.io/"><-Back</a>
-       <p style="color: white">Website created by Aaron with the generous help of Manuel and Roen<p>
+       <p style="color: white">Website created by Aaron with the support of Manuel and Roen<p>
        <p style="color: white">Created for the Englich project by Manuel, Micheal, Roen, Leon and Aaron<p>
        <p><br></p>
-       <p style="color: white">Actually took us more then <b>16</b> hours at home</p>
+	<p style="color: white">This took us way to long</p>
+       <p style="color: white">Actually more then <b>19 hours</b> at home</p>
+	     <p style="color: white">...</p>
+	     <p style="color: white">But still kinda fun</p>
+	
 	
