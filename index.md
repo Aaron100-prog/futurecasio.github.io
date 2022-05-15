@@ -421,13 +421,13 @@ document.getElementById("defaultOpen").click();
 </div>
 	<hr>
 	<center>
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.facebook.com/Casioisalreadyused"><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://twitter.com/Casioisalreadyused"><img src="images/124021.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.patreon.com/Casioisalreadyused?l=en"><img src="images/Patreon_logo.svg.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.instagram.com/Casioisalreadyused/"><img src="images/Instagram_icon.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
-	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.youtube.com/c/Casioisalreadyused"><img src="images/1384060.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.facebook.com/Casioisalreadyused" target="_blank"><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://twitter.com/Casioisalreadyused" target="_blank"><img src="images/124021.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.patreon.com/Casioisalreadyused?l=en" target="_blank"><img src="images/Patreon_logo.svg.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.instagram.com/Casioisalreadyused/" target="_blank"><img src="images/Instagram_icon.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.youtube.com/c/Casioisalreadyused" target="_blank"><img src="images/1384060.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
 		<p><br></p>
-	<a href="https://www.casio-europe.com/euro/"><img src="images/casio.png" alt="Test" width="426" height="82" background="transparent"></a>
+	<a href="https://www.casio-europe.com/euro/" target="_blank"><img src="images/casio.png" alt="Test" width="426" height="82" background="transparent"></a>
 		
 	</center>
 </footer> 
