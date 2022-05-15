@@ -393,12 +393,13 @@ function openPage2(pageName,elmnt,color) {
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
-	  <div>
-  <hr>
-	  </div>
+	  
 	  
 	  
 <footer>
+	<div>
+  <hr>
+	  </div>
   <div class="row">
   <div class="column" style="background-color:black;">
 	  <center>
@@ -419,7 +420,7 @@ document.getElementById("defaultOpen").click();
 	  </center>
   </div>
 </div>
-	<hr>
+	
 	<center>
 	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.facebook.com/Casioisalreadyused" target="_blank"><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i><a href="https://twitter.com/Casioisalreadyused" target="_blank"><img src="images/124021.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
@@ -430,6 +431,7 @@ document.getElementById("defaultOpen").click();
 	<a href="https://www.casio-europe.com/euro/" target="_blank"><img src="images/casio.png" alt="Test" width="426" height="82" background="transparent"></a>
 		
 	</center>
+	<hr>
 </footer> 
 </body>
 </html> 
