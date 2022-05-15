@@ -334,9 +334,10 @@ document.getElementById("defaultOpen").click();
 If our product is very well received, we will move more and more towards a school device in the future and move away from the focus on math.</p>
 </div>
 
-  <button class="accordion"><p style="color: white">When will you start with the production</p></button>
+  <button class="accordion"><p style="color: white">When will you start with the production?</p></button>
 <div class="panel">
-  <p>Mrs. Schäfer, please give us a good mark for our project. The whole thing took so long. Don't we deserve it?!</p>
+  <p>At the moment its to early to say when we are going to start production of our device, but we expect it to start in Q4 of 2022.</p>
+  <p>Finding an investor will make production even faster and therefore make it easier for us to deliver the final product to you.</p>
 </div>
   <p><br></p>
   <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
