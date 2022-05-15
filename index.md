@@ -348,7 +348,10 @@ If our product is very well received, we will move more and more towards a schoo
 	
 	<p><br></p>
 </div>
-	<p style="color: white"></p>
+	<p><br></p>
+	<p><br></p>
+	<p><br></p>
+	<p style="color: black">---</p>
 	<hr>
   
   <script>
