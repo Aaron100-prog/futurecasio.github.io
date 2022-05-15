@@ -14,7 +14,7 @@
        <p style="color: white">Created for the Englich project by Manuel, Micheal, Roen, Leon and Aaron<p>
        <p><br></p>
 	<p style="color: white">This took us way to long</p>
-       <p style="color: white">Actually more then <b>19 hours</b> at home</p>
+       <p style="color: white">Actually took more then <b>19 hours</b> at home</p>
 	     <p style="color: white">...</p>
 	     <p style="color: white">But still kinda fun</p>
 	
