@@ -210,8 +210,6 @@ body, html {
 </center>
 
   <p><br></p>
-  <p><br></p>
-  <p><br></p>
   
   <!--Obere Reiterbox-->
   
@@ -394,12 +392,10 @@ document.getElementById("defaultOpen").click();
   
 	  
 <footer>
-	<p><br></p>
   <div class="row">
   <div class="column" style="background-color:black;">
 	  <center>
 		  <p><br></p>
-  <p><br></p>
   <p><br></p>
 	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Cookies">Cookies</a></p>
 	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Legal">Legal</a></p>
@@ -409,7 +405,6 @@ document.getElementById("defaultOpen").click();
   <div class="column" style="background-color:black;">
 	  <center>
 		  <p><br></p>
-  <p><br></p>
   <p><br></p>
     <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Support">Support</a></p>
 	  <p><a href="https://aaron100-prog.github.io/futurecasio.github.io/Help">Help</a></p>
