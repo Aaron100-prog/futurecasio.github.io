@@ -340,7 +340,7 @@ If our product is very well received, we will move more and more towards a schoo
   <p>Finding an investor will make production even faster and therefore make it easier for us to deliver the final product to you.</p>
 </div>
   <p><br></p>
-  <p>If you have any other problems with our products or have any other questions, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
+  <p>If you have any other problems or any other questions with our products, please don't hesitate to ask our friendly staff who will assist you in any way and as soon as possible</p>
   <center>
 	  <a href="https://aaron100-prog.github.io/futurecasio.github.io/Support" class="button">Support</a>
     </center>
