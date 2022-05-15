@@ -234,7 +234,7 @@ body, html {
     <p><br></p>
     <p><br></p>
   <p>Comes in the future.</p>
-  <p>(create a custom sleeves and cases for their own taste)</p>
+  <p>(create custom sleeves and cases for their own taste)</p>
     <div class="popup" onclick="Popupfunction()"><a class="button"><p style="color: red">Open Designer</p></a>
   <span class="popuptext" id="myPopup">Still WIP sry!</span>
 </div>
