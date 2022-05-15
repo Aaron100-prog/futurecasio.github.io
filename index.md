@@ -395,9 +395,11 @@ document.getElementById("defaultOpen").click();
 	  
 <footer>
 	<p><br></p>
+	<center>
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
 	<div id="element1"> <button class="btn"><i class=""></i></button> </div> 
+	</center>
 	<p><br></p>
   <div class="row">
   <div class="column" style="background-color:black;">
@@ -422,7 +424,7 @@ document.getElementById("defaultOpen").click();
   </div>
 </div>
 	<center>
-	  <img src="images/casio.png" alt="Test">
+	  <img src="images/casio.png" alt="Test" width="640" height="123">
 	</center>
 </footer> 
 </body>
