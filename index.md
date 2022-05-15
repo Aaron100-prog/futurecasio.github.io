@@ -348,7 +348,7 @@ If our product is very well received, we will move more and more towards a schoo
 	
 	<p><br></p>
 </div>
-	<hr>
+	
   
   <script>
 var acc = document.getElementsByClassName("accordion");
@@ -394,6 +394,7 @@ function openPage2(pageName,elmnt,color) {
 document.getElementById("defaultOpen").click();
 </script>
   
+	  <hr>
 	  
 <footer>
 	
@@ -419,11 +420,11 @@ document.getElementById("defaultOpen").click();
 </div>
 	<hr>
 	<center>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40" background="transparent"></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/124021.png" alt="Test" width="40" height="40" background="transparent"></button> </div> 
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/Patreon_logo.svg.png" alt="Test" width="40" height="40" background="transparent"></button> </div>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/Instagram_icon.png" alt="Test" width="40" height="40" background="transparent"></button> </div>
-	<div id="element1"> <button class="btn"><i class=""></i><img src="images/1384060.png" alt="Test" width="40" height="40" background="transparent"></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.facebook.com/Casio"><img src="images/f_logo_RGB-Blue_1024.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://twitter.com/Casio"><img src="images/124021.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div> 
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.patreon.com/Casio?l=en"><img src="images/Patreon_logo.svg.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.instagram.com/Casio/"><img src="images/Instagram_icon.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
+	<div id="element1"> <button class="btn"><i class=""></i><a href="https://www.youtube.com/c/Casio"><img src="images/1384060.png" alt="Test" width="40" height="40" background="transparent"></a></button> </div>
 		<p><br></p>
 	<a href="https://www.casio-europe.com/euro/"><img src="images/casio.png" alt="Test" width="426" height="82" background="transparent"></a>
 		
